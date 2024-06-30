@@ -11,14 +11,6 @@
 - Работа с оборудованием
 - Навыки 3D печати
 
-Примеры кода
-```python
-def greet(name):
-    return f"Hello, {name}!"
-
-print(greet("World"))
-
-
 Опыт работы
 Специалист по оборудованию в компании Evolution
 2022 - по настоящее время
@@ -28,3 +20,14 @@ print(greet("World"))
 
 Английский язык : Уровень B2
 Литовский Язык : A1 
+
+
+
+Примеры кода
+```python
+def greet(name):
+    return f"Hello, {name}!"
+
+print(greet("World"))
+
+
