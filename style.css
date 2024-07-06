@@ -3,6 +3,7 @@ body {
     margin: 20px;
     background-color: #f4f4f4;
     color: #333;
+    text-align: center;
 }
 
 header {
@@ -10,8 +11,25 @@ header {
     margin-bottom: 20px;
 }
 
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
 h1 {
     color: #4CAF50;
+}
+
+main {
+    text-align: left;
+    display: inline-block;
+    width: 60%;
+    margin: 0 auto;
 }
 
 section {
@@ -28,10 +46,11 @@ section {
     border-radius: 50%;
 }
 
-ul {
-    list-style-type: square;
+footer {
+    margin-top: 20px;
 }
 
-li {
-    margin-bottom: 5px;
+footer img {
+    vertical-align: middle;
+    margin-left: 10px;
 }
