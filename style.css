@@ -54,3 +54,10 @@ footer img {
     vertical-align: middle;
     margin-left: 10px;
 }
+
+pre {
+    background: #eee;
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
+}
