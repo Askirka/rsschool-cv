@@ -1,2 +1,2 @@
-[My CV in markdown format](https://YOUR-GITHUB-USERNAME.github.io/rsschool-cv/cv)
-[My CV in deployed page format](https://YOUR-GITHUB-USERNAME.github.io/rsschool-cv/)
+[My CV in markdown format](https://https://askirka.github.io/rsschool-cv/#education)
+[My CV in deployed page format](https://askirka.github.io/rsschool-cv/#education)
